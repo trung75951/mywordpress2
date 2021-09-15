@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Du Lịch và Khám Phá &#8211; TRAVEL-PAGES</title>
+	<atom:link href="http://localhost/myproject/wordpress/tag/du-lich-va-kham-pha/feed/" rel="self" type="application/rss+xml" />
+	<link>https://trung75951.github.io/mywordpress_gh</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 15 Sep 2021 01:54:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>DU LỊCH VÀ KHÁM PHÁ DANH LAM THẮNG CẢNH</title>
+		<link>https://trung75951.github.io/mywordpress_gh/du-lich-va-kham-pha-danh-lam-thang-canh/</link>
+					<comments>https://trung75951.github.io/mywordpress_gh/du-lich-va-kham-pha-danh-lam-thang-canh/#respond</comments>
+		
+		<dc:creator><![CDATA[tuphuoctrung]]></dc:creator>
+		<pubDate>Wed, 25 Aug 2021 01:59:00 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<category><![CDATA[Du Lịch và Khám Phá]]></category>
+		<guid isPermaLink="false">https://trung75951.github.io/mywordpress_gh/?p=1437</guid>
+
+					<description><![CDATA[Tại sao bạn nên đi du lịch thường xuyên ? Đi du lịch không chỉ để khám phá những vùng đất mới, thêm hiểu và thêm yêu những mảnh đất, con người của quê hương mình, thưởng thức những món ăn ngon và giúp chúng ta khám phá khả năng của chính bản thân mình. [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://trung75951.github.io/mywordpress_gh/du-lich-va-kham-pha-danh-lam-thang-canh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
