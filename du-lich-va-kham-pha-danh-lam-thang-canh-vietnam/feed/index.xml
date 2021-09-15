@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for TRAVEL-PAGES	</title>
-	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://trung75951.github.io/mywordpress_gh</link>
+	Comments on: DU LỊCH VÀ KHÁM PHÁ DANH LAM THẮNG CẢNH ViETNAM	</title>
+	<atom:link href="http://localhost/myproject/wordpress/du-lich-va-kham-pha-danh-lam-thang-canh-vietnam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://trung75951.github.io/mywordpress_gh/du-lich-va-kham-pha-danh-lam-thang-canh-vietnam/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 15 Sep 2021 05:06:56 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Sep 2021 04:07:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
